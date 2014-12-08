@@ -13,5 +13,8 @@
     "convert"
   ],
   "author": "Robin Hawkes <rob@vizicities.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.1.1"
+  }
 }
