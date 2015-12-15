@@ -1,6 +1,6 @@
 {
   "name": "model-converter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Conversion between various 3D model formats",
   "main": "index.js",
   "scripts": {
